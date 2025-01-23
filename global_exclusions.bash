@@ -1,0 +1,1 @@
+curl https://archive.org/download/global-crawling-exclusions/exclusions.txt -L > global-crawling-exclusions.txt
